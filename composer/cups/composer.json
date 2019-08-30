@@ -1,0 +1,12 @@
+{
+    "name": "digital/cups",
+    "require": {
+        "bissolli/validador-cpf-cnpj": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Aleyucra74",
+            "email": "alexandre.yucra@outlook.com"
+        }
+    ]
+}
