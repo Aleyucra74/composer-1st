@@ -1,0 +1,12 @@
+{
+    "name": "digital/composer",
+    "authors": [
+        {
+            "name": "Aleyucra74",
+            "email": "alexandre.yucra@outlook.com"
+        }
+    ],
+    "require": {
+        "bissolli/validador-cpf-cnpj": "^1.2"
+    }
+}
